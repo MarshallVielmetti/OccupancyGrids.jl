@@ -240,9 +240,7 @@ Plots the occupancy grid as a heatmap using Plots.jl.
         colormap --> :grays
         alpha --> 0.8
         aspect_ratio --> :equal
-        x := x_range
-        y := y_range
-        z := inverted_data
+        x_range, y_range, inverted_data
     end
 end
 
