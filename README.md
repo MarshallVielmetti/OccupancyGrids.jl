@@ -78,6 +78,7 @@ A simple indoor environment.
 ### Simple Indoor 1
 
 <img src="maps/simple_indoor_1/simple_indoor_1.png" width="400"/>
+Also a large variant simple_indoor_1_large
 
 ### Simple Indoor 2
 
