@@ -28,7 +28,7 @@ const INCLUDED_GRID_INFO = Dict(
     WillowGarage => joinpath(BASE_PATH, "willow_garage"),
     SimpleIndoor => joinpath(BASE_PATH, "simple_indoor"),
     SimpleIndoor1 => joinpath(BASE_PATH, "simple_indoor_1"),
-    SimpleIndoor1 => joinpath(BASE_PATH, "simple_indoor_1_large"),
+    SimpleIndoor1Large => joinpath(BASE_PATH, "simple_indoor_1_large"),
     SimpleIndoor2 => joinpath(BASE_PATH, "simple_indoor_2")
 )
 
